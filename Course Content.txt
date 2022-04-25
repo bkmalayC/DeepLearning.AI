@@ -3,3 +3,7 @@
 3. Structuring Machine Learning Projects
 4. Convolutional Neural Networks
 5. Sequence Models
+
+Online Books :
+
+http://neuralnetworksanddeeplearning.com/index.html
